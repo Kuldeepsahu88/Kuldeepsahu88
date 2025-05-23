@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kuldeepsahu88
 - 👀 I’m interested in  Data Analyst, Data Science, Big Data, Software Testing.
-- 🌱 I’m currently learning  Data Structures and Algorithms in C++, MERN Stack.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kuldeepsahu8889@gmail.com
 
